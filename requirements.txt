@@ -11,4 +11,6 @@ PyMySQL==0.9.3
 requests==2.21.0
 urllib3==1.24.1
 测试一下
-nbm
+nbm、
+
+在测试一下
